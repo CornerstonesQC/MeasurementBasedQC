@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="quizardry.svg" inkscape:version="0.91 r13725"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="390.039px"
+	 height="391.2px" viewBox="1223.057 -11.198 390.039 391.2" enable-background="new 1223.057 -11.198 390.039 391.2"
+	 xml:space="preserve">
+<sodipodi:namedview  fit-margin-left="5" fit-margin-top="5" showgrid="false" inkscape:cy="169.47838" inkscape:cx="789.45367" inkscape:zoom="0.49497475" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" fit-margin-bottom="5" fit-margin-right="5" inkscape:window-maximized="1" inkscape:window-y="1" inkscape:current-layer="layer1" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:window-x="4" inkscape:window-height="755" inkscape:window-width="1276" inkscape:pageshadow="2">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(1986.2498,-940.04399)" inkscape:groupmode="layer" inkscape:label="Layer 1" opacity="0.99">
+	
+		<ellipse id="path4136" fill="none" stroke="#000000" stroke-width="1.2684" stroke-linecap="round" stroke-dasharray="5.0737,5.0737" cx="-190.965" cy="532.184" rx="133.436" ry="53.435"/>
+	
+		<circle id="circle4157" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" cx="-190.965" cy="532.184" r="133.143"/>
+	<path fill="none" d=""/>
+	<path id="path4178" inkscape:connector-curvature="0" stroke="#000000" d="M-67.471,532.096l-3.199,3.199l11.199-3.199l-11.199-3.2
+		L-67.471,532.096z"/>
+	<path id="path4163" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" stroke="#000000" d="M-61.071,532.096"/>
+	<path fill="none" d=""/>
+	<path id="path4527" inkscape:connector-curvature="0" stroke="#000000" d="M-191.178,407.579l3.2,3.2l-3.2-11.2l-3.2,11.2
+		L-191.178,407.579z"/>
+	<path id="path4523" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" stroke="#000000" d="M-191.178,401.18"/>
+	<path id="path4879" sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="2" d="
+		M-147.54,469.87v104.247l-42.831-41.214"/>
+	<path fill="none" d=""/>
+	<path id="path4885" inkscape:connector-curvature="0" stroke="#000000" d="M-153.769,478.601l1.251,6.672l5.525-16.575
+		l-13.448,11.154L-153.769,478.601z"/>
+	<path id="path4881" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" stroke="#000000" d="M-148.348,470.678"/>
+	<text transform="matrix(1 0 0 1 -220.3875 509.4583)" font-family="'ArialMT'" font-size="33.8775">θ</text>
+	<text transform="matrix(1 0 0 1 -207.6892 565.5808)" font-family="'ArialMT'" font-size="36.7326">φ</text>
+	
+		<path id="path5279" sodipodi:open="true" sodipodi:end="5.362807" sodipodi:start="4.7636262" sodipodi:ry="101.28274" sodipodi:rx="37.797173" sodipodi:cx="256.25162" sodipodi:type="arc" sodipodi:cy="480.2829" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="
+		M-190.7,491.316c6.077,0.835,11.918,6.563,16.761,16.437"/>
+	
+		<path id="path5287" sodipodi:open="true" sodipodi:end="0.94099261" sodipodi:start="0.041804803" sodipodi:ry="27.640821" sodipodi:rx="49.669037" sodipodi:cx="249.45256" sodipodi:type="arc" sodipodi:cy="428.55496" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="
+		M-157.987,531.777c-0.507,6.736-6.507,12.976-16.297,16.946"/>
+	<g id="g4219" transform="matrix(0.81995059,0,0,0.81995059,456.56575,-45.525945)">
+		<text transform="matrix(1.2196 0 0 1.2196 -735.1897 617.9691)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 -725.6472 617.9691)" font-family="'ArialMT'" font-size="30.1189">ψ</text>
+		<text transform="matrix(0.3992 0 0 1.2196 -699.6621 621.8024)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -206.0544 384.4069)" font-family="'ArialMT'" font-size="30.1189">|0</text>
+	<text transform="matrix(0.3273 0 0 1 -181.7244 387.5494)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	<text transform="matrix(1 0 0 1 -52.5115 539.566)" font-family="'ArialMT'" font-size="30.1189">|+</text>
+	<text transform="matrix(0.3273 0 0 1 -26.5818 542.7096)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	<g id="g4383" transform="translate(-45.714285,0)">
+		
+			<ellipse id="ellipse4175" fill="none" stroke="#000000" stroke-width="1.2684" stroke-linecap="round" stroke-dasharray="5.0737,5.0737" cx="272.343" cy="532.184" rx="133.436" ry="53.435"/>
+		
+			<circle id="circle4177" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" cx="272.343" cy="532.184" r="133.143"/>
+		<path fill="none" d=""/>
+		<path id="path4240" inkscape:connector-curvature="0" stroke="#000000" d="M272.129,407.579l3.2,3.2l-3.2-11.2l-3.2,11.2
+			L272.129,407.579z"/>
+		<path id="path4181" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" stroke="#000000" d="M272.129,401.18"/>
+		
+			<path id="path4183" sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" fill="none" stroke="#737373" stroke-width="2" d="
+			M315.767,469.87v104.247l-42.83-41.214"/>
+		<path fill="none" d=""/>
+		<path id="path4250" inkscape:connector-curvature="0" fill="#737373" stroke="#737373" d="M309.489,479.375l1.21,6.68
+			l5.628-16.541l-13.518,11.071L309.489,479.375z"/>
+		<path id="path4185" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="#737373" stroke="#737373" d="
+			M314.959,471.486"/>
+		<text transform="matrix(1 0 0 1 198.2418 555.0753)" font-family="'ArialMT'" font-size="36.7326">π</text>
+		<text transform="matrix(1 0 0 1 143.3239 710.9044)" font-family="'Arial-BoldMT'" font-size="30.1189">Z</text>
+		<text transform="matrix(1 0 0 1 161.7213 710.9044)" font-family="'ArialMT'" font-size="30.1189">: (</text>
+		<text transform="matrix(1 0 0 1 188.4879 710.9044)" font-family="'ArialMT'" font-size="30.1189">θ</text>
+		<text transform="matrix(1 0 0 1 205.2379 710.9044)" font-family="'ArialMT'" font-size="30.1189">,</text>
+		<text transform="matrix(1 0 0 1 213.6061 710.9044)" font-family="'ArialMT'" font-size="30.1189">φ</text>
+		<text transform="matrix(1 0 0 1 233.1364 710.9044)" font-family="'ArialMT'" font-size="30.1189">) →(</text>
+		<text transform="matrix(1 0 0 1 291.6832 710.9044)" font-family="'ArialMT'" font-size="30.1189">θ</text>
+		<text transform="matrix(1 0 0 1 308.4342 710.9044)" font-family="'ArialMT'" font-size="30.1189">,</text>
+		<text transform="matrix(1 0 0 1 316.8024 710.9044)" font-family="'ArialMT'" font-size="30.1189">π</text>
+		<text transform="matrix(1 0 0 1 337.5826 710.9044)" font-family="'ArialMT'" font-size="30.1189">+</text>
+		<text transform="matrix(1 0 0 1 355.1715 710.9044)" font-family="'ArialMT'" font-size="30.1189">φ</text>
+		<text transform="matrix(1 0 0 1 374.7018 710.9044)" font-family="'ArialMT'" font-size="30.1189">)</text>
+		<path fill="none" d=""/>
+		<path id="path4246" inkscape:connector-curvature="0" stroke="#000000" d="M272.129,657.039l-3.2-3.2l3.2,11.2l3.2-11.2
+			L272.129,657.039z"/>
+		<path id="path4242" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" stroke="#000000" d="M272.129,663.44"/>
+		<path id="rect4596" fill="#FFFFFF" d="M133.175,377.289h107.363c3.137,0,5.68,2.543,5.68,5.681v30.592
+			c0,3.138-2.543,5.681-5.68,5.681H133.175c-3.138,0-5.682-2.543-5.682-5.681V382.97
+			C127.494,379.832,130.038,377.289,133.175,377.289z"/>
+		<path fill="none" d=""/>
+		<path id="path4256" inkscape:connector-curvature="0" stroke="#000000" d="M247.215,442.604l5.926,3.312l-9.195-14.857
+			l-0.042,17.473L247.215,442.604z"/>
+		<path id="path4252" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" stroke="#000000" d="M244.599,433.367"/>
+		
+			<path id="path4264" sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="2" d="
+			M245.461,432.696v67.074l27.477,33.133"/>
+		<path fill="none" d=""/>
+		<path id="path4326" inkscape:connector-curvature="0" stroke="#000000" d="M253.923,518.839l-2.739,3.603l10.665-4.683
+			l-11.529-1.658L253.923,518.839z"/>
+		
+			<path id="ellipse4266" sodipodi:open="true" sodipodi:end="4.3842814" sodipodi:start="1.1683886" sodipodi:ry="18.763098" sodipodi:rx="46.853935" sodipodi:cx="825.56287" sodipodi:type="arc" sodipodi:cy="430.21936" stroke="#000000" d="
+			M1372.533,1159.264"/>
+		<path id="rect4598" fill="#FFFFFF" d="M298.048,416.887h107.363c3.137,0,5.68,2.544,5.68,5.681v30.592
+			c0,3.138-2.543,5.681-5.68,5.681H298.048c-3.138,0-5.681-2.543-5.681-5.681v-30.592
+			C292.368,419.431,294.911,416.887,298.048,416.887z"/>
+		<text transform="matrix(1 0 0 1 319.4781 445.0323)" fill="#737373" font-family="'ArialMT'" font-size="30.1189">(</text>
+		<text transform="matrix(1 0 0 1 329.5084 445.0323)" fill="#737373" font-family="'ArialMT'" font-size="30.1189">θ</text>
+		<text transform="matrix(1 0 0 1 346.2594 445.0323)" fill="#737373" font-family="'ArialMT'" font-size="30.1189">,</text>
+		<text transform="matrix(1 0 0 1 354.6276 445.0323)" fill="#737373" font-family="'ArialMT'" font-size="30.1189">φ</text>
+		<text transform="matrix(1 0 0 1 374.1578 445.0323)" fill="#737373" font-family="'ArialMT'" font-size="30.1189">)</text>
+		<text transform="matrix(1 0 0 1 136.0348 407.0504)" font-family="'ArialMT'" font-size="30.1189">(</text>
+		<text transform="matrix(1 0 0 1 146.0641 407.0504)" font-family="'ArialMT'" font-size="30.1189">θ</text>
+		<text transform="matrix(1 0 0 1 162.8151 407.0504)" font-family="'ArialMT'" font-size="30.1189">,</text>
+		<text transform="matrix(1 0 0 1 171.1832 407.0504)" font-family="'ArialMT'" font-size="30.1189">π</text>
+		<text transform="matrix(1 0 0 1 191.9645 407.0504)" font-family="'ArialMT'" font-size="30.1189">+</text>
+		<text transform="matrix(1 0 0 1 209.5524 407.0504)" font-family="'ArialMT'" font-size="30.1189">φ</text>
+		<text transform="matrix(1 0 0 1 229.0836 407.0504)" font-family="'ArialMT'" font-size="30.1189">)</text>
+		<path id="path4594" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="1.5" d="M257.07,696.446v13.738
+			"/>
+		<path id="path4638" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="1.5" d="M270.224,702.946
+			h-13.738"/>
+	</g>
+	<g id="g4640" transform="matrix(0.81995059,0,0,0.81995059,309.4229,265.61691)">
+		<text transform="matrix(1.2196 0 0 1.2196 -699.2986 542.0764)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 -689.7562 542.0764)" font-family="'ArialMT'" font-size="30.1189">ψ</text>
+		<text transform="matrix(0.3992 0 0 1.2196 -663.7722 545.9102)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -215.8154 711.5154)" font-family="'ArialMT'" font-size="32">→(</text>
+	<text transform="matrix(1 0 0 1 -173.1592 711.5154)" font-family="'ArialMT'" font-size="32">θ</text>
+	<text transform="matrix(1 0 0 1 -155.3623 711.5154)" font-family="'ArialMT'" font-size="32">,</text>
+	<text transform="matrix(1 0 0 1 -146.4717 711.5154)" font-family="'ArialMT'" font-size="32">φ</text>
+	<text transform="matrix(1 0 0 1 -125.7217 711.5154)" font-family="'ArialMT'" font-size="32">)</text>
+	<path id="path4666" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="1.5" d="M-214.319,696.447
+		v13.738"/>
+	
+		<ellipse id="ellipse4280" fill="none" stroke="#000000" stroke-width="1.2684" stroke-linecap="round" stroke-dasharray="5.0737,5.0737" cx="-553.812" cy="532.184" rx="133.436" ry="53.435"/>
+	
+		<circle id="circle4282" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" cx="-553.812" cy="532.184" r="133.143"/>
+	<path fill="none" d=""/>
+	<path id="path4178_1_" inkscape:connector-curvature="0" stroke="#000000" d="M-430.318,532.096l-3.2,3.199l11.2-3.199l-11.2-3.2
+		L-430.318,532.096z"/>
+	<path id="path4284" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" stroke="#000000" d="M-423.918,532.096"/>
+	<path fill="none" d=""/>
+	<path id="path4527_1_" inkscape:connector-curvature="0" stroke="#000000" d="M-554.025,407.579l3.199,3.2l-3.199-11.2l-3.2,11.2
+		L-554.025,407.579z"/>
+	<path id="path4286" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" stroke="#000000" d="M-554.025,401.18"/>
+	<text transform="matrix(1 0 0 1 -583.2344 509.4583)" font-family="'ArialMT'" font-size="33.8775">θ</text>
+	<text transform="matrix(1 0 0 1 -570.5361 565.5808)" font-family="'ArialMT'" font-size="36.7326">φ</text>
+	
+		<path id="path4300" sodipodi:open="true" sodipodi:end="5.362807" sodipodi:start="4.7636262" sodipodi:ry="101.28274" sodipodi:rx="37.797173" sodipodi:cx="-197.30687" sodipodi:type="arc" sodipodi:cy="480.2829" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="
+		M-553.547,491.316c6.077,0.835,11.918,6.563,16.761,16.437"/>
+	
+		<path id="path4302" sodipodi:open="true" sodipodi:end="0.94099261" sodipodi:start="0.041804803" sodipodi:ry="27.640821" sodipodi:rx="49.669037" sodipodi:cx="-204.10593" sodipodi:type="arc" sodipodi:cy="428.55496" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="
+		M-520.834,531.777c-0.507,6.736-6.507,12.976-16.297,16.946"/>
+	<g id="g4304" transform="matrix(0.81995059,0,0,0.81995059,3.0072613,-45.525945)">
+		<text transform="matrix(1.2196 0 0 1.2196 -624.558 617.9691)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 -615.0168 617.9691)" font-family="'ArialMT'" font-size="30.1189">ψ</text>
+		<text transform="matrix(0.3992 0 0 1.2196 -589.0328 621.8024)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -415.3585 539.566)" font-family="'ArialMT'" font-size="30.1189">|+</text>
+	<text transform="matrix(0.3273 0 0 1 -389.4288 542.7096)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	<g id="g4336" transform="matrix(0.81995059,0,0,0.81995059,-144.13559,265.61691)">
+		<text transform="matrix(1.2196 0 0 1.2196 -588.6681 542.0764)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 -579.1259 542.0764)" font-family="'ArialMT'" font-size="30.1189">ψ</text>
+		<text transform="matrix(0.3992 0 0 1.2196 -553.1417 545.9102)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -578.6622 711.5154)" font-family="'ArialMT'" font-size="32">→(</text>
+	<text transform="matrix(1 0 0 1 -536.006 711.5154)" font-family="'ArialMT'" font-size="32">θ</text>
+	<text transform="matrix(1 0 0 1 -518.2091 711.5154)" font-family="'ArialMT'" font-size="32">,</text>
+	<text transform="matrix(1 0 0 1 -509.3185 711.5154)" font-family="'ArialMT'" font-size="32">φ</text>
+	<text transform="matrix(1 0 0 1 -488.5685 711.5154)" font-family="'ArialMT'" font-size="32">)</text>
+	<path id="path4358" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="1.5" d="M-577.166,696.447
+		v13.738"/>
+	<g id="g4366" transform="translate(8.5714285,9.6428571)">
+		<text transform="matrix(1 0 0 1 -570.6155 382.478)" font-family="'ArialMT'" font-size="30.1189">n</text>
+		<path id="path4364" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="1.2218" d="M-563.361,366.101
+			l4.168-3.733l3.738,3.349"/>
+	</g>
+	
+		<path id="path4283" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="1.7505" stroke-dasharray="3.501,3.501" d="
+		M558.842,376.806h181.07"/>
+	
+		<circle id="circle4273" fill="none" stroke="#000000" stroke-width="1.7505" stroke-linecap="round" cx="558.336" cy="414.316" r="37.788"/>
+	<circle id="circle4279" stroke="#000000" stroke-width="0.335" stroke-linecap="round" cx="558.336" cy="376.829" r="7.232"/>
+	
+		<circle id="circle4281" fill="#FFFFFF" stroke="#000000" stroke-width="1.7505" stroke-linecap="round" cx="738.698" cy="376.829" r="7.232"/>
+	
+		<path id="path4287" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="1.7505" stroke-dasharray="3.501,3.501" d="
+		M558.842,451.781h181.07"/>
+	<circle id="circle4289" stroke="#000000" stroke-width="0.335" stroke-linecap="round" cx="558.336" cy="451.804" r="7.232"/>
+	
+		<circle id="circle4291" fill="#FFFFFF" stroke="#000000" stroke-width="1.7505" stroke-linecap="round" cx="738.698" cy="451.804" r="7.232"/>
+	
+		<path id="path4293" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="1.7505" stroke-dasharray="3.501,3.501" d="
+		M563.69,499.07l176.222,76.771"/>
+	
+		<circle id="circle4295" fill="none" stroke="#000000" stroke-width="1.7505" stroke-linecap="round" cx="558.336" cy="537.387" r="37.788"/>
+	<circle id="circle4297" stroke="#000000" stroke-width="0.335" stroke-linecap="round" cx="558.336" cy="499.901" r="7.232"/>
+	<path id="rect4321" fill="#FFFFFF" d="M649.276,529.734h8.034c3.137,0,5.68,2.543,5.68,5.681v6.417c0,3.138-2.543,5.681-5.68,5.681
+		h-8.034c-3.138,0-5.681-2.543-5.681-5.681v-6.417C643.596,532.277,646.139,529.734,649.276,529.734z"/>
+	
+		<path id="path4301" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="1.7505" stroke-dasharray="3.501,3.501" d="
+		M562.883,576.468l177.029-75.964"/>
+	
+		<circle id="circle4299" fill="#FFFFFF" stroke="#000000" stroke-width="1.7505" stroke-linecap="round" cx="738.698" cy="499.901" r="7.232"/>
+	<circle id="circle4303" stroke="#000000" stroke-width="0.335" stroke-linecap="round" cx="558.336" cy="574.874" r="7.232"/>
+	
+		<circle id="circle4305" fill="#FFFFFF" stroke="#000000" stroke-width="1.7505" stroke-linecap="round" cx="738.698" cy="574.874" r="7.232"/>
+	<g id="g4339" transform="matrix(1,0,0,-1,0,1025.8578)">
+		
+			<path id="path4323" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="1.7505" stroke-dasharray="3.501,3.501" d="
+			M563.69,328.223l176.222,76.771"/>
+		
+			<circle id="circle4325" fill="none" stroke="#000000" stroke-width="1.7505" stroke-linecap="round" cx="558.336" cy="366.542" r="37.788"/>
+		<circle id="circle4327" stroke="#000000" stroke-width="0.335" stroke-linecap="round" cx="558.336" cy="329.054" r="7.232"/>
+		<path id="rect4329" fill="#FFFFFF" d="M649.276,358.888h8.034c3.137,0,5.68,2.543,5.68,5.68v6.418c0,3.138-2.543,5.681-5.68,5.681
+			h-8.034c-3.138,0-5.681-2.543-5.681-5.681v-6.418C643.596,361.431,646.139,358.888,649.276,358.888z"/>
+		
+			<path id="path4331" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="1.7505" stroke-dasharray="3.501,3.501" d="
+			M562.883,405.621l177.029-75.963"/>
+		
+			<circle id="circle4333" fill="#FFFFFF" stroke="#000000" stroke-width="1.7505" stroke-linecap="round" cx="738.698" cy="329.054" r="7.232"/>
+		<circle id="circle4335" stroke="#000000" stroke-width="0.335" stroke-linecap="round" cx="558.336" cy="404.028" r="7.232"/>
+		
+			<circle id="circle4337" fill="#FFFFFF" stroke="#000000" stroke-width="1.7505" stroke-linecap="round" cx="738.698" cy="404.028" r="7.232"/>
+	</g>
+	<text transform="matrix(1 0 0 1 533.3934 548.4719)" font-family="'Arial-BoldMT'" font-size="30.1189">YX</text>
+	<text transform="matrix(1 0 0 1 533.3934 668.074)" font-family="'Arial-BoldMT'" font-size="30.1189">XY</text>
+	<g id="g4551" transform="translate(0,-8)">
+		<text transform="matrix(1 0 0 1 466.3026 427.2214)" font-family="'ArialMT'" font-size="30.1189">|0</text>
+		<text transform="matrix(0.3273 0 0 1 490.6327 430.364)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	</g>
+	<g id="g4532" transform="translate(648.51793,-196.97974)">
+		<text transform="matrix(1 0 0 1 -182.2153 578.9629)" font-family="'ArialMT'" font-size="30.1189">|+</text>
+		<text transform="matrix(0.3273 0 0 1 -156.2856 582.1055)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	</g>
+	<g id="g4539" transform="translate(648.51793,-105.01525)">
+		<text transform="matrix(1 0 0 1 -182.2153 560.5697)" font-family="'ArialMT'" font-size="30.1189">|–</text>
+		<text transform="matrix(0.3273 0 0 1 -156.2856 563.7118)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	</g>
+	<circle id="circle4560" stroke="#000000" stroke-width="0.335" stroke-linecap="round" cx="558.336" cy="413.178" r="7.232"/>
+	
+		<ellipse id="ellipse4373" fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" stroke-dasharray="12,12" cx="-190.965" cy="1618.756" rx="133.436" ry="53.435"/>
+	
+		<circle id="circle4375" fill="none" stroke="#6E7CB2" stroke-width="4" stroke-linecap="round" cx="-190.965" cy="1618.756" r="133.143"/>
+	<path fill="none" d=""/>
+	<path id="path4587" inkscape:connector-curvature="0" stroke="#000000" d="M-67.472,1618.667l-3.199,3.199l11.199-3.199
+		l-11.199-3.2L-67.472,1618.667z"/>
+	<path id="path4377" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" stroke="#000000" d="M-61.071,1618.667"/>
+	<path fill="none" d=""/>
+	<path id="path4675" inkscape:connector-curvature="0" fill="#494949" stroke="#494949" d="M-191.179,1494.151l3.2,3.2l-3.2-11.2
+		l-3.2,11.2L-191.179,1494.151z"/>
+	<path id="path4379" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="#494949" stroke="#494949" d="
+		M-191.179,1487.751"/>
+	<path id="path4381" sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="2" d="
+		M-147.54,1556.442v104.247l-42.831-41.214"/>
+	<text transform="matrix(1 0 0 1 -220.3878 1596.0295)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="33.8775">θ</text>
+	<text transform="matrix(1 0 0 1 -207.6896 1652.1526)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="36.7326">φ</text>
+	
+		<path id="path4393" sodipodi:open="true" sodipodi:end="5.362807" sodipodi:start="4.7636262" sodipodi:ry="101.28274" sodipodi:rx="37.797173" sodipodi:cx="256.25162" sodipodi:type="arc" sodipodi:cy="1225.9972" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="
+		M-190.7,1577.887c6.077,0.835,11.918,6.563,16.761,16.437"/>
+	
+		<path id="path4395" sodipodi:open="true" sodipodi:end="0.94099261" sodipodi:start="0.081032236" sodipodi:ry="27.640821" sodipodi:rx="49.669037" sodipodi:cx="249.45256" sodipodi:type="arc" sodipodi:cy="1174.2693" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="
+		M-158.083,1619.214c-0.937,6.417-6.853,12.288-16.201,16.08"/>
+	<path fill="none" d=""/>
+	<path id="path4455" inkscape:connector-curvature="0" fill="#C30000" stroke="#C30000" d="M-153.77,1565.172l1.251,6.672
+		l5.525-16.575l-13.448,11.154L-153.77,1565.172z"/>
+	<path id="path4383" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="#C30000" stroke="#C30000" d="
+		M-148.349,1557.249"/>
+	<g id="g4397" transform="matrix(0.81995059,0,0,0.81995059,456.56575,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 -735.1902 1033.6738)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 -725.6477 1033.6738)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="30.1189">ψ</text>
+		<text transform="matrix(0.3992 0 0 1.2196 -699.6626 1037.5077)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	</g>
+	<text transform="matrix(1 0 0 1 37.9978 1464.5784)" font-family="'ArialMT'" font-size="30.1189">|0</text>
+	<text transform="matrix(0.3273 0 0 1 62.3279 1467.7219)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	<text transform="matrix(1 0 0 1 197.9412 1626.1379)" font-family="'ArialMT'" font-size="30.1189">|+</text>
+	<text transform="matrix(0.3273 0 0 1 223.8708 1629.2805)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	<g id="g4429" transform="matrix(0.81995059,0,0,0.81995059,309.4229,1017.3312)">
+		<text transform="matrix(1.2196 0 0 1.2196 -699.2991 956.3168)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 -689.7567 956.3168)" font-family="'ArialMT'" font-size="30.1189">ψ</text>
+		<text transform="matrix(0.3992 0 0 1.2196 -663.7727 960.1506)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -215.8157 1802.887)" font-family="'ArialMT'" font-size="32">→(</text>
+	<text transform="matrix(1 0 0 1 -173.1594 1802.887)" font-family="'ArialMT'" font-size="32">θ</text>
+	<text transform="matrix(1 0 0 1 -155.3625 1802.887)" font-family="'ArialMT'" font-size="32">,</text>
+	<text transform="matrix(1 0 0 1 -146.4719 1802.887)" font-family="'ArialMT'" font-size="32">φ</text>
+	<text transform="matrix(1 0 0 1 -125.7219 1802.887)" font-family="'ArialMT'" font-size="32">)</text>
+	<path id="path4451" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="1.5" d="M-214.32,1787.818
+		v13.738"/>
+	<circle id="path4583" fill="#C30000" cx="-189.567" cy="1618.101" r="3"/>
+	
+		<ellipse id="ellipse4369" fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" stroke-dasharray="12,12" cx="-570.781" cy="1128.756" rx="133.435" ry="53.435"/>
+	
+		<circle id="circle4371" fill="none" stroke="#6E7CB2" stroke-width="4" stroke-linecap="round" cx="-570.781" cy="1128.756" r="133.143"/>
+	<path fill="none" d=""/>
+	<path id="path4587_1_" inkscape:connector-curvature="0" stroke="#000000" d="M-447.289,1128.667l-3.199,3.199l11.199-3.199
+		l-11.199-3.2L-447.289,1128.667z"/>
+	<path id="path4374" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" stroke="#000000" d="M-440.889,1128.667"/>
+	<path fill="none" d=""/>
+	<path id="path4755" inkscape:connector-curvature="0" fill="#515151" stroke="#515151" d="M-570.996,1004.151l3.199,3.2
+		l-3.199-11.2l-3.2,11.2L-570.996,1004.151z"/>
+	<path id="path4376" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="#515151" stroke="#515151" d="
+		M-570.996,997.751"/>
+	<text transform="matrix(1 0 0 1 -540.0081 1119.9646)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="28.702">φ</text>
+	
+		<path id="path4388_2_" sodipodi:open="true" sodipodi:end="5.362807" sodipodi:start="4.7636262" sodipodi:ry="101.28274" sodipodi:rx="37.797173" sodipodi:cx="-218.52008" sodipodi:type="arc" sodipodi:cy="1225.9972" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="
+		M-553.757,1104.323"/>
+	
+		<path id="path4388_1_" sodipodi:open="true" sodipodi:end="5.362807" sodipodi:start="4.7636262" sodipodi:ry="101.28274" sodipodi:rx="37.797173" sodipodi:cx="-218.52008" sodipodi:type="arc" sodipodi:cy="1225.9972" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="
+		M-570.518,1087.887"/>
+	
+		<path id="path4390" sodipodi:open="true" sodipodi:end="0.94099261" sodipodi:start="0.081032236" sodipodi:ry="27.640821" sodipodi:rx="49.669037" sodipodi:cx="-225.31914" sodipodi:type="arc" sodipodi:cy="1174.2693" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="
+		M-535.702,1101.408c17.701,1.749,37.106,9.388,44.121,27.599"/>
+	<path fill="none" d=""/>
+	<path id="path4392" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="#C30000" stroke="#C30000" d="
+		M-528.166,1067.249"/>
+	<circle id="circle4430" cx="-570.781" cy="992.975" r="6.268"/>
+	<circle id="circle4432" cx="-570.781" cy="1261.272" r="6.268"/>
+	<circle id="circle4434" cx="-436.634" cy="1128.74" r="6.268"/>
+	<circle id="circle4436" cx="-704.122" cy="1128.74" r="6.268"/>
+	<path id="path4597" inkscape:connector-curvature="0" fill="none" stroke="#7F7F7F" stroke-width="3" stroke-dasharray="12,12" d="
+		M-973.673,997.8v261.831"/>
+	
+		<circle id="circle4479" fill="none" stroke="#6E7CB2" stroke-width="4" stroke-linecap="round" cx="-973.227" cy="1128.756" r="133.143"/>
+	<text transform="matrix(1 0 0 1 -989.9329 977.0027)" font-family="'ArialMT'" font-size="30.1189">|0</text>
+	<text transform="matrix(0.3273 0 0 1 -965.6038 980.1453)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	<text transform="matrix(1 0 0 1 -989.9329 1300.22)" font-family="'ArialMT'" font-size="30.1189">|1</text>
+	<text transform="matrix(0.3273 0 0 1 -965.6038 1303.3616)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	<circle id="circle4537" cx="-973.227" cy="994.575" r="6.268"/>
+	<circle id="circle4539" cx="-973.227" cy="1261.272" r="6.268"/>
+	<path id="path4603" inkscape:connector-curvature="0" fill="none" stroke="#7F7F7F" stroke-width="3" stroke-dasharray="12,12" d="
+		M-842.758,1128.715h-261.831"/>
+	<circle id="circle4541" cx="-839.078" cy="1128.74" r="6.268"/>
+	<circle id="circle4543" cx="-1106.567" cy="1128.74" r="6.268"/>
+	<text transform="matrix(1 0 0 1 -829.925 1136.1711)" font-family="'ArialMT'" font-size="30.1189">|+</text>
+	<text transform="matrix(0.3273 0 0 1 -805.5959 1139.3127)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	<text transform="matrix(1 0 0 1 -1156.4065 1136.1711)" font-family="'ArialMT'" font-size="30.1189">|–</text>
+	<text transform="matrix(0.3273 0 0 1 -1132.0764 1139.3127)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	<text transform="matrix(1 0 0 1 -888.4075 989.7278)" font-family="'ArialMT'" font-size="27.6628">|0</text>
+	<text transform="matrix(0.3273 0 0 1 -866.0618 992.614)" font-family="'Arial-BoldMT'" font-size="41.6334">&gt;</text>
+	<text transform="matrix(1 0 0 1 -851.0725 990.4402)" font-family="'ArialMT'" font-size="27.6628">+|+</text>
+	<text transform="matrix(0.3273 0 0 1 -812.5627 993.3264)" font-family="'Arial-BoldMT'" font-size="41.6334">&gt;</text>
+	<path id="path4599" inkscape:connector-curvature="0" fill="none" stroke="#7F7F7F" stroke-width="3" stroke-dasharray="12,12" d="
+		M-881.102,1036.144l-185.143,185.144"/>
+	<circle id="circle4574" cx="-879.501" cy="1033.365" r="6.268"/>
+	<circle id="circle4601" cx="-1068.602" cy="1223.274" r="6.268"/>
+	<path id="path4605" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="1.4012" d="M-889.802,1002.52
+		h89.066"/>
+	<text transform="matrix(1 0 0 1 -858.718 1027.5813)" font-family="'ArialMT'" font-size="27.6628">√2</text>
+	<text transform="matrix(1 0 0 1 -1153.2161 1256.929)" font-family="'ArialMT'" font-size="27.6628">|1</text>
+	<text transform="matrix(0.3273 0 0 1 -1130.8713 1259.8147)" font-family="'Arial-BoldMT'" font-size="41.6334">&gt;</text>
+	<text transform="matrix(1 0 0 1 -1115.8811 1257.6409)" font-family="'ArialMT'" font-size="27.6628">+|–</text>
+	<text transform="matrix(0.3273 0 0 1 -1077.3713 1260.5266)" font-family="'Arial-BoldMT'" font-size="41.6334">&gt;</text>
+	<path id="path4633" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="1.4012" d="M-1154.612,1269.72
+		h89.067"/>
+	<text transform="matrix(1 0 0 1 -1123.5276 1294.7815)" font-family="'ArialMT'" font-size="27.6628">√2</text>
+	<circle id="circle4641" fill="#C30000" cx="-973.227" cy="1128.707" r="6.268"/>
+	
+		<path id="path4476" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-dasharray="8,8" d="
+		M-1793.109,997.8v132.531"/>
+	
+		<circle id="circle4478" fill="none" stroke="#6E7CB2" stroke-width="4" stroke-linecap="round" cx="-1792.662" cy="1128.756" r="133.143"/>
+	<text transform="matrix(1 0 0 1 -1809.3689 977.0027)" font-family="'ArialMT'" font-size="30.1189">|0</text>
+	<text transform="matrix(0.3273 0 0 1 -1785.0393 980.1453)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	<text transform="matrix(1 0 0 1 -1809.3689 1300.22)" font-family="'ArialMT'" font-size="30.1189">|1</text>
+	<text transform="matrix(0.3273 0 0 1 -1785.0393 1303.3616)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	<circle id="circle4500" cx="-1792.662" cy="994.575" r="6.268"/>
+	<circle id="circle4502" cx="-1792.662" cy="1261.272" r="6.268"/>
+	<path id="path4504" inkscape:connector-curvature="0" fill="none" stroke="#9B00B7" stroke-width="3" stroke-dasharray="18,18" d="
+		M-1662.194,1128.715h-261.831"/>
+	<circle id="circle4506" cx="-1658.514" cy="1128.74" r="6.268"/>
+	<circle id="circle4508" cx="-1926.003" cy="1128.74" r="6.268"/>
+	<text transform="matrix(1 0 0 1 -1975.842 1136.1711)" font-family="'ArialMT'" font-size="30.1189">|–</text>
+	<text transform="matrix(0.3273 0 0 1 -1951.5129 1139.3127)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	<path id="path4559" inkscape:connector-curvature="0" fill="none" stroke="#C6C6C6" stroke-width="3" d="M-1679.871,1063.301
+		l-226.706,130.997"/>
+	<circle id="circle4561" fill="#C6C6C6" cx="-1677.607" cy="1061.03" r="6.268"/>
+	<path id="path4624" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="3" d="M-1907.102,1063.301
+		l226.705,130.997"/>
+	<circle id="circle4563" fill="#C6C6C6" cx="-1909.367" cy="1195.609" r="6.268"/>
+	<circle id="circle4608" fill="#C30000" cx="-1792.662" cy="1128.707" r="6.268"/>
+	
+		<text transform="matrix(1 0 0 1 -1774.406 1087.4431)" fill="#C6C6C6" font-family="'TimesNewRomanPS-ItalicMT'" font-size="33.8775">θ</text>
+	<circle id="circle4626" cx="-1909.367" cy="1061.03" r="6.268"/>
+	<circle id="circle4628" cx="-1677.607" cy="1195.609" r="6.268"/>
+	
+		<path id="path4636" sodipodi:open="true" sodipodi:end="3.6086255" sodipodi:start="4.7636262" sodipodi:ry="33.236908" sodipodi:rx="34.035271" sodipodi:cx="-1744.5228" sodipodi:type="arc" sodipodi:cy="1175.0951" fill="none" stroke="#000000" stroke-width="2.734" stroke-linecap="round" d="
+		M-1791.474,1101.531c12.035,0.603,22.233,8.859,25.069,20.298s-2.366,23.337-12.787,29.248
+		c-10.421,5.912-23.582,4.431-32.352-3.642c-8.771-8.071-11.064-20.813-5.638-31.321"/>
+	
+		<path id="path4639" sodipodi:open="true" sodipodi:end="5.8107193" sodipodi:start="4.7636262" sodipodi:ry="39.272373" sodipodi:rx="40.21571" sodipodi:cx="-1744.5231" sodipodi:type="arc" sodipodi:cy="1172.734" fill="none" stroke="#C6C6C6" stroke-width="3.2305" stroke-linecap="round" d="
+		M-1791.221,1094.82c11.478,0.574,21.77,7.085,27,17.079"/>
+	<text transform="matrix(1 0 0 1 -1856.9773 1194.3)" font-family="'TimesNewRomanPSMT'" font-size="33.8775">π</text>
+	<text transform="matrix(1 0 0 1 -1839.8733 1194.3)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="33.8775">–θ</text>
+	<text transform="matrix(1 0 0 1 -1647.6838 1136.1711)" font-family="'ArialMT'" font-size="30.1189">|+</text>
+	<text transform="matrix(0.3273 0 0 1 -1623.3538 1139.3127)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	
+		<circle id="circle4659" fill="none" stroke="#9B00B7" stroke-width="4" stroke-linecap="round" stroke-dasharray="16,16" cx="-1390.218" cy="1128.756" r="133.143"/>
+	<g id="g4739" transform="translate(69.285714,500.71428)">
+		<text transform="matrix(1 0 0 1 -1420.7811 876.8601)" font-family="'ArialMT'" font-size="30.1189">|0</text>
+		<text transform="matrix(0.3273 0 0 1 -1396.452 880.0037)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	</g>
+	<circle id="circle4689" cx="-1523.558" cy="1128.74" r="6.268"/>
+	<text transform="matrix(1 0 0 1 -1573.3967 1136.1711)" font-family="'ArialMT'" font-size="30.1189">|–</text>
+	<text transform="matrix(0.3273 0 0 1 -1549.0686 1139.3127)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	<path id="path4701" inkscape:connector-curvature="0" fill="none" stroke="#C6C6C6" stroke-width="3" d="M-1277.427,1194.298
+		l-226.705-130.997"/>
+	<path id="path4705" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="3" d="M-1504.657,1194.298
+		l226.706-130.997"/>
+	<g id="g5190" transform="matrix(1,0,0,-1,0,2350.7757)">
+		<circle id="circle4703" fill="#C6C6C6" cx="-1275.162" cy="1155.167" r="6.268"/>
+		<circle id="circle4707" fill="#C6C6C6" cx="-1506.922" cy="1289.746" r="6.268"/>
+		<circle id="circle4715" cx="-1506.922" cy="1155.167" r="6.268"/>
+		<circle id="circle4717" cx="-1275.161" cy="1289.746" r="6.268"/>
+	</g>
+	
+		<path id="path5196" sodipodi:open="true" sodipodi:end="0.57179289" sodipodi:start="0.0080381914" sodipodi:ry="33.236908" sodipodi:rx="34.035271" sodipodi:cx="-1241.4669" sodipodi:type="arc" sodipodi:cy="-1177.3448" fill="none" stroke="#000000" stroke-width="2.734" stroke-linecap="round" d="
+		M-1363.197,1129.671c-0.041-5.03-1.543-9.945-4.33-14.175"/>
+	
+		<path id="path4719" sodipodi:open="true" sodipodi:end="0.57179289" sodipodi:start="0.0080381914" sodipodi:ry="33.236908" sodipodi:rx="34.035271" sodipodi:cx="-1241.4669" sodipodi:type="arc" sodipodi:cy="1175.0951" fill="none" stroke="#C6C6C6" stroke-width="2.734" stroke-linecap="round" d="
+		M-1363.197,1128.299c-0.041,5.029-1.543,9.944-4.33,14.175"/>
+	
+		<path id="path5184" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-dasharray="8,8" d="
+		M-1256.516,1128.715h-132.532"/>
+	<circle id="circle4709" fill="#C30000" cx="-1390.218" cy="1128.707" r="6.268"/>
+	<circle id="circle4687" cx="-1256.07" cy="1128.74" r="6.268"/>
+	<text transform="matrix(1 0 0 1 -1245.2385 1136.1711)" font-family="'ArialMT'" font-size="30.1189">|+</text>
+	<text transform="matrix(0.3273 0 0 1 -1220.9094 1139.3127)" font-family="'Arial-BoldMT'" font-size="45.3298">&gt;</text>
+	
+		<text transform="matrix(1 0 0 1 -1308.6497 1159.8665)" fill="#C6C6C6" font-family="'TimesNewRomanPS-ItalicMT'" font-size="36.7326">φ</text>
+	<text transform="matrix(1 0 0 1 -1320.6497 1111.8665)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="36.7326">–φ</text>
+	<line fill="none" stroke="#000000" x1="-570.781" y1="1125.101" x2="-570.781" y2="999.242"/>
+	<line fill="none" stroke="#000000" x1="-570.189" y1="1129.475" x2="-442.902" y2="1128.74"/>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" x1="-630.429" y1="1175.713" x2="-524.874" y2="1092.027"/>
+			<g>
+				<polygon fill="#9B00B7" points="-511.762,1081.631 -524.253,1103.83 -525.855,1092.803 -536.224,1088.732 				"/>
+			</g>
+		</g>
+	</g>
+	<circle id="circle4408" fill="#9B00B7" cx="-569.759" cy="1127.726" r="3.375"/>
+	<g id="g4394_1_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 -693.6549 334.6426)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 -683.3301 339.5209)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="30.1189">0</text>
+		<text transform="matrix(0.327 0 0 1.2196 -662.5007 353.7093)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	<g id="g4394_2_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 -693.6549 727.7045)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 -683.3301 732.5828)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="30.1189">1</text>
+		<text transform="matrix(0.327 0 0 1.2196 -662.5007 746.77)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	<g id="g4394_3_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 -495.7557 530.2985)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 -485.431 535.1768)" font-family="'TimesNewRomanPS-BoldMT'" font-size="30.1189">+</text>
+		<text transform="matrix(0.327 0 0 1.2196 -464.6016 549.3663)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	<g id="g4394_4_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 -891.6183 532.7375)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 -880.074 533.9572)" font-family="'TimesNewRomanPS-BoldMT'" font-size="30.1189">-</text>
+		<text transform="matrix(0.327 0 0 1.2196 -866.562 549.3663)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	
+		<ellipse id="ellipse4369_1_" fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" stroke-dasharray="12,12" cx="-115.781" cy="1132.756" rx="133.435" ry="53.435"/>
+	
+		<circle id="circle4371_1_" fill="none" stroke="#6E7CB2" stroke-width="4" stroke-linecap="round" cx="-115.781" cy="1132.756" r="133.143"/>
+	<path id="path4587_2_" inkscape:connector-curvature="0" stroke="#000000" d="M7.711,1132.667l-3.199,3.199l11.199-3.199
+		l-11.199-3.2L7.711,1132.667z"/>
+	<path id="path4374_1_" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" stroke="#000000" d="M14.111,1132.667"/>
+	<path id="path4755_1_" inkscape:connector-curvature="0" fill="#515151" stroke="#515151" d="M-115.996,1008.151l3.199,3.2
+		l-3.199-11.2l-3.2,11.2L-115.996,1008.151z"/>
+	<path id="path4376_1_" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="#515151" stroke="#515151" d="
+		M-115.996,1001.751"/>
+	
+		<path id="path4388_4_" sodipodi:open="true" sodipodi:end="5.362807" sodipodi:start="4.7636262" sodipodi:ry="101.28274" sodipodi:rx="37.797173" sodipodi:cx="-218.52008" sodipodi:type="arc" sodipodi:cy="1225.9972" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="
+		M-98.757,1108.323"/>
+	
+		<path id="path4388_3_" sodipodi:open="true" sodipodi:end="5.362807" sodipodi:start="4.7636262" sodipodi:ry="101.28274" sodipodi:rx="37.797173" sodipodi:cx="-218.52008" sodipodi:type="arc" sodipodi:cy="1225.9972" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="
+		M-115.518,1091.887"/>
+	<path id="path4392_1_" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="#C30000" stroke="#C30000" d="
+		M-73.166,1071.249"/>
+	<circle id="circle4430_1_" cx="-115.781" cy="996.975" r="6.268"/>
+	<circle id="circle4432_1_" cx="-115.781" cy="1265.272" r="6.268"/>
+	<circle id="circle4434_1_" cx="18.366" cy="1132.74" r="6.268"/>
+	<circle id="circle4436_1_" cx="-249.122" cy="1132.74" r="6.268"/>
+	<line fill="none" stroke="#000000" x1="-115.781" y1="1129.101" x2="-115.781" y2="1003.242"/>
+	<line fill="none" stroke="#000000" x1="-115.189" y1="1133.475" x2="12.098" y2="1132.74"/>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" x1="-249.213" y1="1132.451" x2="1.633" y2="1132.722"/>
+			<g>
+				<polygon fill="#9B00B7" points="18.366,1132.74 -5.224,1142.349 0.382,1132.72 -5.203,1123.081 				"/>
+			</g>
+		</g>
+	</g>
+	<circle id="circle4408_1_" fill="#9B00B7" cx="-114.759" cy="1131.726" r="3.375"/>
+	<g id="g4394_8_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 -138.7437 339.5209)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 -128.4189 344.3992)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="30.1189">0</text>
+		<text transform="matrix(0.327 0 0 1.2196 -107.5896 358.5876)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	<g id="g4394_7_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 -138.7437 732.5828)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 -128.4189 737.4612)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="30.1189">1</text>
+		<text transform="matrix(0.327 0 0 1.2196 -107.5896 751.6483)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	<g id="g4394_6_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 59.1555 535.1768)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 69.4802 540.0551)" font-family="'TimesNewRomanPS-BoldMT'" font-size="30.1189">+</text>
+		<text transform="matrix(0.327 0 0 1.2196 90.3096 554.2447)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	<g id="g4394_5_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 -336.7072 537.616)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 -325.1627 538.8355)" font-family="'TimesNewRomanPS-BoldMT'" font-size="30.1189">-</text>
+		<text transform="matrix(0.327 0 0 1.2196 -311.6509 554.2447)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	<g opacity="0.05">
+		<g>
+			
+				<line fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" x1="-174.625" y1="1179.012" x2="-69.071" y2="1095.325"/>
+			<g>
+				<polygon fill="#9B00B7" points="-55.958,1084.929 -68.449,1107.129 -70.051,1096.102 -80.42,1092.031 				"/>
+			</g>
+		</g>
+	</g>
+	<g opacity="0.14">
+		<g>
+			
+				<line fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" x1="-209.073" y1="1169.848" x2="-36.002" y2="1101.222"/>
+			<g>
+				<polygon fill="#9B00B7" points="-20.447,1095.054 -38.815,1112.702 -37.164,1101.683 -45.916,1094.791 				"/>
+			</g>
+		</g>
+	</g>
+	<g opacity="0.26">
+		<g>
+			
+				<line fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" x1="-237.546" y1="1154.642" x2="-10.99" y2="1113.422"/>
+			<g>
+				<polygon fill="#9B00B7" points="5.472,1110.427 -16.002,1124.127 -12.222,1113.646 -19.45,1105.17 				"/>
+			</g>
+		</g>
+	</g>
+	
+		<ellipse id="ellipse4369_2_" fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" stroke-dasharray="12,12" cx="886.219" cy="1296.756" rx="133.435" ry="53.435"/>
+	
+		<circle id="circle4371_2_" fill="none" stroke="#6E7CB2" stroke-width="4" stroke-linecap="round" cx="886.219" cy="1296.756" r="133.143"/>
+	<path id="path4587_3_" inkscape:connector-curvature="0" stroke="#000000" d="M1009.711,1296.667l-3.199,3.199l11.199-3.199
+		l-11.199-3.2L1009.711,1296.667z"/>
+	<path id="path4374_2_" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" stroke="#000000" d="M1016.111,1296.667"/>
+	<path id="path4755_2_" inkscape:connector-curvature="0" fill="#515151" stroke="#515151" d="M886.004,1172.151l3.199,3.2
+		l-3.199-11.2l-3.2,11.2L886.004,1172.151z"/>
+	<path id="path4376_2_" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="#515151" stroke="#515151" d="
+		M886.004,1165.751"/>
+	
+		<path id="path4388_6_" sodipodi:open="true" sodipodi:end="5.362807" sodipodi:start="4.7636262" sodipodi:ry="101.28274" sodipodi:rx="37.797173" sodipodi:cx="-218.52008" sodipodi:type="arc" sodipodi:cy="1225.9972" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="
+		M903.243,1272.323"/>
+	
+		<path id="path4388_5_" sodipodi:open="true" sodipodi:end="5.362807" sodipodi:start="4.7636262" sodipodi:ry="101.28274" sodipodi:rx="37.797173" sodipodi:cx="-218.52008" sodipodi:type="arc" sodipodi:cy="1225.9972" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="
+		M886.482,1255.887"/>
+	<path id="path4392_2_" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="#C30000" stroke="#C30000" d="
+		M928.834,1235.249"/>
+	<circle id="circle4430_2_" cx="886.219" cy="1160.975" r="6.268"/>
+	<circle id="circle4432_2_" cx="886.219" cy="1429.272" r="6.268"/>
+	<circle id="circle4434_2_" cx="1020.366" cy="1296.74" r="6.268"/>
+	<circle id="circle4436_2_" cx="752.878" cy="1296.74" r="6.268"/>
+	<line fill="none" stroke="#000000" x1="886.219" y1="1293.101" x2="886.219" y2="1167.242"/>
+	<line fill="none" stroke="#000000" x1="887.31" y1="1295.374" x2="1016.111" y2="1296.667"/>
+	<circle id="circle4408_2_" fill="#9B00B7" cx="887.241" cy="1295.726" r="3.375"/>
+	<g id="g4394_12_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 1083.2805 539.5334)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 1093.6052 544.4117)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="30.1189">0</text>
+		<text transform="matrix(0.327 0 0 1.2196 1114.4348 558.599)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	<g id="g4394_11_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 1083.2805 932.5947)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 1093.6052 937.4731)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="30.1189">1</text>
+		<text transform="matrix(0.327 0 0 1.2196 1114.4348 951.6603)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	<g id="g4394_10_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 1281.1797 735.1887)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 1291.5044 740.067)" font-family="'TimesNewRomanPS-BoldMT'" font-size="30.1189">+</text>
+		<text transform="matrix(0.327 0 0 1.2196 1312.3337 754.2567)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	<g id="g4394_9_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 885.3171 737.6279)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 896.8616 738.8475)" font-family="'TimesNewRomanPS-BoldMT'" font-size="30.1189">-</text>
+		<text transform="matrix(0.327 0 0 1.2196 910.3733 754.2567)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" x1="886.219" y1="1429.899" x2="887.242" y2="1180.014"/>
+			<g>
+				<polygon fill="#9B00B7" points="887.31,1163.281 896.848,1186.9 887.236,1181.265 877.581,1186.821 				"/>
+			</g>
+		</g>
+	</g>
+	
+		<ellipse id="ellipse4369_3_" fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" stroke-dasharray="12,12" cx="325.219" cy="1136.299" rx="133.435" ry="53.435"/>
+	
+		<circle id="circle4371_3_" fill="none" stroke="#6E7CB2" stroke-width="4" stroke-linecap="round" cx="325.219" cy="1136.299" r="133.143"/>
+	<path id="path4587_4_" inkscape:connector-curvature="0" stroke="#000000" d="M448.711,1136.21l-3.199,3.199l11.199-3.199
+		l-11.199-3.2L448.711,1136.21z"/>
+	<path id="path4374_3_" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" stroke="#000000" d="M455.111,1136.21"/>
+	<path id="path4755_3_" inkscape:connector-curvature="0" fill="#515151" stroke="#515151" d="M325.004,1011.694l3.199,3.2
+		l-3.199-11.2l-3.2,11.2L325.004,1011.694z"/>
+	<path id="path4376_3_" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="#515151" stroke="#515151" d="
+		M325.004,1005.294"/>
+	
+		<path id="path4388_8_" sodipodi:open="true" sodipodi:end="5.362807" sodipodi:start="4.7636262" sodipodi:ry="101.28274" sodipodi:rx="37.797173" sodipodi:cx="-218.52008" sodipodi:type="arc" sodipodi:cy="1225.9972" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="
+		M342.243,1111.866"/>
+	
+		<path id="path4388_7_" sodipodi:open="true" sodipodi:end="5.362807" sodipodi:start="4.7636262" sodipodi:ry="101.28274" sodipodi:rx="37.797173" sodipodi:cx="-218.52008" sodipodi:type="arc" sodipodi:cy="1225.9972" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="
+		M325.482,1095.43"/>
+	<path id="path4392_3_" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" fill="#C30000" stroke="#C30000" d="
+		M367.834,1074.792"/>
+	<circle id="circle4430_3_" cx="325.219" cy="1000.518" r="6.268"/>
+	<circle id="circle4432_3_" cx="325.219" cy="1268.815" r="6.268"/>
+	<circle id="circle4434_3_" cx="459.366" cy="1136.282" r="6.268"/>
+	<circle id="circle4436_3_" cx="191.878" cy="1136.282" r="6.268"/>
+	<line fill="none" stroke="#000000" x1="325.219" y1="1132.644" x2="325.219" y2="1006.785"/>
+	<line fill="none" stroke="#000000" x1="325.811" y1="1137.018" x2="453.098" y2="1136.282"/>
+	<g opacity="0.12">
+		<g>
+			
+				<line fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" x1="191.787" y1="1135.994" x2="442.633" y2="1136.265"/>
+			<g>
+				<polygon fill="#9B00B7" points="459.366,1136.282 435.776,1145.892 441.382,1136.263 435.797,1126.624 				"/>
+			</g>
+		</g>
+	</g>
+	<circle id="circle4408_3_" fill="#9B00B7" cx="326.241" cy="1135.269" r="3.375"/>
+	<g id="g4394_16_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 399.0933 343.8419)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 409.4182 348.7202)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="30.1189">0</text>
+		<text transform="matrix(0.327 0 0 1.2196 430.2476 362.9086)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	<g id="g4394_15_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 399.0933 736.9037)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 409.4182 741.7821)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="30.1189">1</text>
+		<text transform="matrix(0.327 0 0 1.2196 430.2476 755.9693)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	<g id="g4394_14_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 596.9924 539.4977)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 607.3171 544.376)" font-family="'TimesNewRomanPS-BoldMT'" font-size="30.1189">+</text>
+		<text transform="matrix(0.327 0 0 1.2196 628.1467 558.5657)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	<g id="g4394_13_" transform="matrix(0.81995059,0,0,0.81995059,-18.205943,700.18834)">
+		<text transform="matrix(1.2196 0 0 1.2196 201.1299 541.9369)" font-family="'ArialMT'" font-size="30.1189">|</text>
+		<text transform="matrix(1.2196 0 0 1.2196 212.6743 543.1565)" font-family="'TimesNewRomanPS-BoldMT'" font-size="30.1189">-</text>
+		<text transform="matrix(0.327 0 0 1.2196 226.1863 558.5657)" font-family="'ArialMT'" font-size="63">&gt;</text>
+	</g>
+	<g opacity="0.09">
+		<g>
+			
+				<line fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" x1="237.677" y1="1157.066" x2="396.603" y2="1119.926"/>
+			<g>
+				<polygon fill="#9B00B7" points="412.898,1116.118 392.13,1130.866 395.385,1120.211 387.745,1112.104 				"/>
+			</g>
+		</g>
+	</g>
+	<g opacity="0.11">
+		<g>
+			
+				<line fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" x1="264.429" y1="1178.127" x2="372.023" y2="1104.083"/>
+			<g>
+				<polygon fill="#9B00B7" points="385.807,1094.597 371.845,1115.902 370.992,1104.793 360.922,1100.029 				"/>
+			</g>
+		</g>
+	</g>
+	<g opacity="0.21">
+		<g>
+			
+				<line fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" x1="290.868" y1="1204.396" x2="352.554" y2="1084.969"/>
+			<g>
+				<polygon fill="#9B00B7" points="360.233,1070.102 357.972,1095.473 351.98,1086.081 340.853,1086.631 				"/>
+			</g>
+		</g>
+	</g>
+	<g opacity="0.28">
+		<g>
+			
+				<line fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" x1="311.434" y1="1230.367" x2="338.531" y2="1061.677"/>
+			<g>
+				<polygon fill="#9B00B7" points="341.185,1045.156 346.959,1069.965 338.333,1062.912 327.935,1066.909 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#9B00B7" stroke-width="3" stroke-linecap="round" x1="325.219" y1="1269.442" x2="326.242" y2="1019.557"/>
+			<g>
+				<polygon fill="#9B00B7" points="326.31,1002.823 335.848,1026.443 326.236,1020.808 316.581,1026.364 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" x1="49.443" y1="1033.365" x2="142.594" y2="1033.365"/>
+			<g>
+				<polygon points="163.776,1033.365 133.928,1045.561 141.011,1033.365 133.928,1021.171 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 84.5105 1011.7507)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="28.702">H</text>
+</g>
+</svg>
